@@ -1,0 +1,14 @@
+
+Columns/Features
+
+Product_ID: Unique identifier for each SaaS product.
+Product_Name: Name of the SaaS product.
+Feature_Set: Number of features offered by the product (e.g., 10, 20, 30 features).
+User_Base: Number of active users (e.g., 1000, 5000, 10000 users).
+Market_Position: Market positioning of the product (e.g., Niche, Mainstream, Premium).
+Customer_Satisfaction: Customer satisfaction score (e.g., from 1 to 5).
+Competitor_Price: Average price of competing products.
+Cost_to_Develop: Estimated cost to develop the product.
+Desired_Profit_Margin: Desired profit margin by the seller (e.g., 20%, 30%, 40%).
+Buyer_Budget: Budget that potential buyers are willing to spend.
+Predicted_Price: The price suggested by the model, considering both buyer and seller factors.
